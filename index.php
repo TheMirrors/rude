@@ -2,11 +2,11 @@
 	require_once 'src/rude.php';
 
 	$rude = new rude();
-	$fb2  = new rude\fb2();
+	$fb2  = new rude\fb2(); 
 ?>
 <html>
 <head>
-	<link href="css/style.css" rel="stylesheet" type="text/css" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" />	<!-- очень крутой коммент -->
 
 	<script type="text/javascript" src="./js/jquery-1.10.2.min.js"></script>
 </head>
